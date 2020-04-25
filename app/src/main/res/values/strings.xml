@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Nanfoiy</string>
+    <string name="shown_name">ނަންފޮތް</string>
+    <string name="title_boy"></string>
+    <string name="title_girl"></string>
+    <string name="title_info"></string>
+    <string name="info_text">މި އެޕްލިކޭޝަންގައި ހިމެނިފައިވާ ހުރިހާ ނަމަކާއި، މާނައެއް އެވަނީ އިސްލާމިކް މިނިސްޓްރީގެ ވެބްސައިޓްގައި ޝާއިޢުކޮށްފައިވާ ނަންފޮތުގައިވާ ގޮތަށެވެ. އެއްވެސް މަޢުލޫމާތަކަށް އެއްވެސް ބަދަލެއް ގެނެސްފައެއް ނުވާނެއެވެ. ނަބީބޭކަލުންނާއި، ޞަޙާބީން ފަދަ ބޭކަލުންގެ ނަންފުޅުތަކުގައި އެއީ އެފަދަ ބޭކަލުންގެ ނަންފުޅުތައް ކަން އެނގޭނެހެން ލިޔެވިފައިވާނެއެވެ. ނަމަވެސް ނަންފޮތުގައި ސީދާ މާނަ ނެތް ނަމަކަށް އަމިއްލައަށް މާނަ ހިމަނާފައެއް ނުވާނެއެވެ. ﷲ ތަޢާލާގެ އިސްމުފުޅު ހިމެނޭ ނަންތަކުގައި ހިމެނިފައި އެވަނީ އިސްމުފުޅުގެ މާނައެވެ. އެއީ ނަންފޮތުގައި ހިމެނިފައިވާ ގޮތެވެ. އުއްމީދަކީ މި އެޕްގެ ފައިދާ ގިނަ ބަޔަކަށް ފޯރުމެވެ.</string>
+    <string name="name_search">ނަން ހޯދާ</string>
+    <string name="credit_text">މި އެނިމޭޝަނަކީ Tanner Groehler ހަދާފައިވާ Lottie އެނިމޭޝަނެކެވެ.</string>
+    <string name="welcome_image_description">Welcome Image</string>
+
+    <string-array name="letter_array">
+        <item>ا</item>
+        <item>ب</item>
+        <item>ت</item>
+        <item>ث</item>
+        <item>ج</item>
+        <item>ح</item>
+        <item>خ</item>
+        <item>د</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ك</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>ه</item>
+        <item>و</item>
+        <item>ي</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

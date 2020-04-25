@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_boys"
+        android:icon="@drawable/ic_boy"
+        android:title="@string/title_boy"
+        />
+
+    <item
+        android:id="@+id/navigation_girls"
+        android:icon="@drawable/ic_girl"
+        android:title="@string/title_girl" />
+
+    <item
+        android:id="@+id/navigation_info"
+        android:icon="@drawable/ic_info"
+        android:title="@string/title_info" />
+
+
+
+</menu>
